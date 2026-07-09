@@ -1,0 +1,2 @@
+# Lidl
+Lidl üzletek
